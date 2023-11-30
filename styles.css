@@ -1,0 +1,26 @@
+.seite {
+    text-align: center;
+    list-style-position: inside;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.bulk{
+    display: inline-block;
+    text-align: left;
+    
+}
+
+.headline {
+    background-color: lightblue;
+}
+
+.siteheadline {
+    background-color: aqua;
+
+}
+
+.headline,
+.siteheadline {
+    font-family: serif;
+}
